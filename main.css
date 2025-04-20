@@ -33,8 +33,8 @@
 
 #safeTimerDisplay{
     position: relative;
-    text-align: left;
-    margin-left: 1rem;
+    text-align: right;
+    margin-right: 1rem;
     font-size: 2rem;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -42,7 +42,7 @@
 
 #title{
     position: relative;
-    text-align: right;
+    text-align: left;
     margin-left: 1rem;
     font-size: 2rem;
     bottom: 5rem;
@@ -52,7 +52,7 @@
 
 #description{
     position: relative;
-    text-align: right;
+    text-align: left;
     margin-left: 1rem;
     font-size: 1rem;
     bottom: 6rem;
