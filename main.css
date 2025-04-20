@@ -1,0 +1,59 @@
+.body {
+    background-color: #080c89;
+
+  }
+  
+
+
+#first-image { 
+    position: relative;
+    cursor: grab;
+    width: 336.6rem;
+    height: 336.6rem;
+    overflow: hidden;
+    background-color: #080c89;
+}
+
+
+
+
+.draggable {
+    position: relative;
+    height: 25px;
+    width: 25px;
+    background-color: #ff0000;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+
+
+#safeTimerDisplay{
+    position: relative;
+    text-align: left;
+    margin-left: 1rem;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+#title{
+    position: relative;
+    text-align: right;
+    margin-left: 1rem;
+    font-size: 2rem;
+    bottom: 5rem;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#description{
+    position: relative;
+    text-align: right;
+    margin-left: 1rem;
+    font-size: 1rem;
+    bottom: 6rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
